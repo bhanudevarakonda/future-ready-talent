@@ -38,7 +38,7 @@
 <br/><br/>
 <h2>CONTACT</h2>
 <img width="947" alt="image" src="https://user-images.githubusercontent.com/113043895/189269376-7cb84650-c005-44e9-95c8-d0d5ba89429e.png">
-<br/><p>COntact Info</p>
+<br/><p>Contact Info</p>
 
 <br/><br/>
 
