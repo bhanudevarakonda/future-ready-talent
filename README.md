@@ -42,4 +42,4 @@
 
 <br/><br/>
 
-Link of Project - 
+Link of Project - https://purple-rock-09afbf510.1.azurestaticapps.net/
